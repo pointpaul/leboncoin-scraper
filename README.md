@@ -14,6 +14,10 @@ Ensuite, vous pourrez récupérer les données depuis Leboncoin grâce a 3 fonct
 * ```leboncoin.numéro(list_id)``` renvoie le numéro de téléphone d'une annonce, identifiée par son *list_id*,
 * ```leboncoin.annonce(list_id)``` renvoie les informations d'une annonce.
 
+L'API renvoie aussi un cookie Datadome valide qui peut être utilisé pour n'importe quelle requête sur Leboncoin:
+
+* ```leboncoin.cookie()```
+
 # Contact
 
 Vous pouvez me contacter sur Discord pour plus d'informations : .paul#7172
