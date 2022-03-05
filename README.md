@@ -20,4 +20,5 @@ L'API renvoie aussi un cookie Datadome valide qui peut être utilisé pour n'imp
 
 # Contact
 
-Vous pouvez me contacter sur Discord pour plus d'informations : .paul#7172
+Vous pouvez me contacter sur Discord : .paul#7172
+Je suis disponible pour toute mission de scraping, de bypass Datadome, etc...
