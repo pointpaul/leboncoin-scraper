@@ -4,8 +4,8 @@ Un wrapper pour utiliser mon [API](https://rapidapi.com/mayliepaul/api/lbc-aio/)
 
 # Utilisation
 
-* récupérez votre X-RapidApi-Key sur [RapidAPI](https://rapidapi.com/mayliepaul/api/lbc-aio).
-* Installer le module requests avec ```pip install requests```
+* Récupérez votre X-RapidApi-Key sur [RapidAPI](https://rapidapi.com/mayliepaul/api/lbc-aio).
+* Installez le module requests avec ```pip install requests```
 
 Au premier lancement, le script vous demandera de rentrer votre X-RapidApi-Key et la sauvegardera.
 Ensuite, vous pourrez récupérer les données depuis Leboncoin grâce a 3 fonctions:
