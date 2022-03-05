@@ -23,3 +23,10 @@ L'API renvoie aussi un cookie Datadome valide qui peut être utilisé pour n'imp
 Vous pouvez me contacter sur Discord : .paul#7172
 
 Je suis disponible pour toute mission de scraping, de bypass Datadome, etc...
+
+
+# Note de fin
+
+Cette API et ce module ont été imaginés et codés pour m'entraîner et m'améliorer, je ne suis en aucun cas responsable de l'utilisation que vous pourriez en faire.
+
+Rappel à toutes fins utiles : https://cms.law/fr/fra/news-information/arret-leboncoin-web-scraping-droit-sui-generis-sur-les-bases-de-donnees
