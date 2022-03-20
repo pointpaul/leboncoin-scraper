@@ -2,8 +2,9 @@ from helper import Scraper
 from os import path
 
 if not path.exists("./config.txt"):
+    X_RapidAPI_Key = input("Clé X_RapidAPI_Key: ")
     with open("./config.txt", "w") as f:
-        f.write(input("Clé X_RapidAPI_Key: "))
+        f.write(X_RapidAPI_Key)
 else:
     X_RapidAPI_Key = open("./config.txt").read()
     print("X_RapidAPI_Key :", X_RapidAPI_Key)
